@@ -1,7 +1,10 @@
 {
-    "cSpell.words": [
-        "jsxdev",
-        "respawn",
-        "totomaru"
-    ]
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "cSpell.words": [
+      "jsxdev",
+      "respawn",
+      "totomaru"
+  ]
 }
