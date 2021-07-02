@@ -15,8 +15,8 @@ $ yarn -v
 ## editor requirements
 
 - vscode
-
 - vscode extension: [ESLint](https://github.com/Microsoft/vscode-eslint)
+- vscode extension: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## setup
 
@@ -34,4 +34,11 @@ if script change need to reflect immediately
 
 ```terminalB
 yarn dev
+```
+
+## lint and fix
+
+```terminal
+yarn lint
+yarn fix
 ```
