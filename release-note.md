@@ -11,3 +11,7 @@
 ## v0.3
 
 - replaced gts with recommended eslint and prettier settings
+
+## v0.4
+
+- add test framework (jest)
