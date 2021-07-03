@@ -6,7 +6,7 @@
 
 ## v0.2
 
-- add gts (Goole TypeScript Style)
+- add gts (Google TypeScript Style)
 
 ## v0.3
 
