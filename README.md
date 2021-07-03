@@ -36,7 +36,14 @@ if script change need to reflect immediately
 yarn dev
 ```
 
-## lint and fix
+## test / watch
+
+```terminal
+yarn test
+yarn test --watch
+```
+
+## lint / fix
 
 ```terminal
 yarn lint
