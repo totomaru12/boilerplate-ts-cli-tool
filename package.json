@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-ts-cli-tool-1",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "main": "build/src/index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
